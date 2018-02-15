@@ -1,0 +1,33 @@
+/* add your CSS here */
+
+p {
+	margin-left:10px;
+	margin-right:10px;
+}
+ul {
+	list-style: none;
+	-webkit-padding-start:0;
+	margin-left:10px;
+}
+span{
+	font-weight:bold;
+}
+.italic{
+	font-style:italic;
+}
+
+.cardbody{
+	border:1px solid gray;
+	display: inline-block;
+	padding:10px;
+	box-shadow:5px 10px 10px #888888;
+}
+
+.animaldesc {
+
+    width: 300px;
+    border: 1px solid gray;
+    display: block;
+    margin-top: 10px;
+
+}
