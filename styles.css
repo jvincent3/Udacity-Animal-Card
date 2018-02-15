@@ -12,6 +12,12 @@ ul {
 span{
 	font-weight:bold;
 }
+img{
+	border:1px solid black;
+}
+.name{
+	border:2px solid gray;
+}
 .italic{
 	font-style:italic;
 }
