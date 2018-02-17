@@ -6,23 +6,23 @@ p {
 }
 ul {
 	list-style: none;
-	-webkit-padding-start:0;
+	-webkit-padding-start: 0;
 	margin-left: 10px;
 }
-.bold{
-	font-weight:bold;
+.bold {
+	font-weight: bold;
 }
-img{
+img {
 	border: 1px solid black;
 }
-.name{
+.name {
 	border: 2px solid gray;
 }
-.italic{
-	font-style:italic;
+.italic {
+	font-style: italic;
 }
 
-.cardbody{
+.cardbody {
 	border: 1px solid gray;
 	display: inline-block;
 	padding: 10px;
